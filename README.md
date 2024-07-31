@@ -10,13 +10,13 @@ Welcome to the GK Quiz project! This is a simple web-based quiz application desi
 - [Usage](#usage)
 ## Demo
 
-![Play Math Screenshot](Screenshot1.jpg)
+![Play Math Screenshot](Screenshot_1.jpg)
 
-![Play Math Screenshot](Screenshot2.jpg)
+![Play Math Screenshot](Screenshot_2.jpg)
 
-![Play Math Screenshot](Screenshot3.jpg)
+![Play Math Screenshot](Screenshot_3.jpg)
 
-![Play Math Screenshot](Screenshot4.jpg)
+![Play Math Screenshot](Screenshot_4.jpg)
 
 
 
@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/aimless-coder/Random_Password_Generator.git
+   https://github.com/aimless-coder/GK_Quiz_App.git
    ```
 
 2. Open `index.html` in your browser
