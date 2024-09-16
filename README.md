@@ -2,6 +2,8 @@
 
 Welcome to the GK Quiz project! This is a simple web-based quiz application designed to test and improve your general knowledge.
 
+To view this project, visit [here](https://aimless-coder.github.io/GK_Quiz_App/)
+
 ## Table of Contents
 
 - [Demo](#demo)
